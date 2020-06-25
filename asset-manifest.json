@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/covidapp/static/css/main.ff16af3e.chunk.css",
+    "main.js": "/covidapp/static/js/main.1d50b314.chunk.js",
+    "main.js.map": "/covidapp/static/js/main.1d50b314.chunk.js.map",
+    "runtime-main.js": "/covidapp/static/js/runtime-main.76d2cd2f.js",
+    "runtime-main.js.map": "/covidapp/static/js/runtime-main.76d2cd2f.js.map",
+    "static/js/2.5c8e523d.chunk.js": "/covidapp/static/js/2.5c8e523d.chunk.js",
+    "static/js/2.5c8e523d.chunk.js.map": "/covidapp/static/js/2.5c8e523d.chunk.js.map",
+    "index.html": "/covidapp/index.html",
+    "precache-manifest.65f8c5bbc1e270ed8e475df51347069d.js": "/covidapp/precache-manifest.65f8c5bbc1e270ed8e475df51347069d.js",
+    "service-worker.js": "/covidapp/service-worker.js",
+    "static/css/main.ff16af3e.chunk.css.map": "/covidapp/static/css/main.ff16af3e.chunk.css.map",
+    "static/js/2.5c8e523d.chunk.js.LICENSE.txt": "/covidapp/static/js/2.5c8e523d.chunk.js.LICENSE.txt",
+    "static/media/MuseoModerno-VariableFont_wght.ttf": "/covidapp/static/media/MuseoModerno-VariableFont_wght.00c7fc7f.ttf",
+    "static/media/aka.jpg": "/covidapp/static/media/aka.708d3401.jpg",
+    "static/media/eyes.png": "/covidapp/static/media/eyes.e5ac49b5.png",
+    "static/media/jones.jpg": "/covidapp/static/media/jones.99835463.jpg",
+    "static/media/me.png": "/covidapp/static/media/me.3e694613.png",
+    "static/media/med.svg": "/covidapp/static/media/med.38fc168e.svg",
+    "static/media/medi.jpg": "/covidapp/static/media/medi.4e30fd45.jpg",
+    "static/media/po4.jpg": "/covidapp/static/media/po4.80f9e2a2.jpg",
+    "static/media/po7.jpg": "/covidapp/static/media/po7.58a4da99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d2cd2f.js",
+    "static/js/2.5c8e523d.chunk.js",
+    "static/css/main.ff16af3e.chunk.css",
+    "static/js/main.1d50b314.chunk.js"
+  ]
+}
