@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7729d0f2e18b466de59b9ad59336026",
+    "revision": "aa741bfca6fd6ff6467f2bf01b27e027",
     "url": "/covidapp/index.html"
   },
   {
-    "revision": "9516c0492c5f655c96fa",
+    "revision": "f6e605f3c1a3dbfff714",
     "url": "/covidapp/static/css/main.ff16af3e.chunk.css"
   },
   {
-    "revision": "d8023c6bed9052e48720",
-    "url": "/covidapp/static/js/2.38ec4d6e.chunk.js"
+    "revision": "b0f8d5511ef353a1b457",
+    "url": "/covidapp/static/js/2.f4cb30c5.chunk.js"
   },
   {
-    "revision": "b47b83f293ef0a67523532a1d2a28ee0",
-    "url": "/covidapp/static/js/2.38ec4d6e.chunk.js.LICENSE.txt"
+    "revision": "2a6cfd578ad402b14169c8b8b09af2f2",
+    "url": "/covidapp/static/js/2.f4cb30c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9516c0492c5f655c96fa",
-    "url": "/covidapp/static/js/main.0152e895.chunk.js"
+    "revision": "f6e605f3c1a3dbfff714",
+    "url": "/covidapp/static/js/main.74aee33c.chunk.js"
   },
   {
     "revision": "d54f1368342ae71f11f9",
