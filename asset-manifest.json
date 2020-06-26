@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/covidapp/static/css/main.ff16af3e.chunk.css",
-    "main.js": "/covidapp/static/js/main.74aee33c.chunk.js",
-    "main.js.map": "/covidapp/static/js/main.74aee33c.chunk.js.map",
+    "main.js": "/covidapp/static/js/main.a34bd806.chunk.js",
+    "main.js.map": "/covidapp/static/js/main.a34bd806.chunk.js.map",
     "runtime-main.js": "/covidapp/static/js/runtime-main.76d2cd2f.js",
     "runtime-main.js.map": "/covidapp/static/js/runtime-main.76d2cd2f.js.map",
-    "static/js/2.f4cb30c5.chunk.js": "/covidapp/static/js/2.f4cb30c5.chunk.js",
-    "static/js/2.f4cb30c5.chunk.js.map": "/covidapp/static/js/2.f4cb30c5.chunk.js.map",
+    "static/js/2.5d4a5606.chunk.js": "/covidapp/static/js/2.5d4a5606.chunk.js",
+    "static/js/2.5d4a5606.chunk.js.map": "/covidapp/static/js/2.5d4a5606.chunk.js.map",
     "index.html": "/covidapp/index.html",
-    "precache-manifest.6bf6a4a88bb034bbb6e377da16e4eb71.js": "/covidapp/precache-manifest.6bf6a4a88bb034bbb6e377da16e4eb71.js",
+    "precache-manifest.35df3a7b55632560efacbcdf07d9480d.js": "/covidapp/precache-manifest.35df3a7b55632560efacbcdf07d9480d.js",
     "service-worker.js": "/covidapp/service-worker.js",
     "static/css/main.ff16af3e.chunk.css.map": "/covidapp/static/css/main.ff16af3e.chunk.css.map",
-    "static/js/2.f4cb30c5.chunk.js.LICENSE.txt": "/covidapp/static/js/2.f4cb30c5.chunk.js.LICENSE.txt",
+    "static/js/2.5d4a5606.chunk.js.LICENSE.txt": "/covidapp/static/js/2.5d4a5606.chunk.js.LICENSE.txt",
     "static/media/MuseoModerno-VariableFont_wght.ttf": "/covidapp/static/media/MuseoModerno-VariableFont_wght.00c7fc7f.ttf",
     "static/media/aka.jpg": "/covidapp/static/media/aka.708d3401.jpg",
     "static/media/eyes.png": "/covidapp/static/media/eyes.e5ac49b5.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76d2cd2f.js",
-    "static/js/2.f4cb30c5.chunk.js",
+    "static/js/2.5d4a5606.chunk.js",
     "static/css/main.ff16af3e.chunk.css",
-    "static/js/main.74aee33c.chunk.js"
+    "static/js/main.a34bd806.chunk.js"
   ]
 }
