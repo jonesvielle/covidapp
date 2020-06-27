@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/covidapp/static/css/main.ff16af3e.chunk.css",
-    "main.js": "/covidapp/static/js/main.7eb7856a.chunk.js",
-    "main.js.map": "/covidapp/static/js/main.7eb7856a.chunk.js.map",
+    "main.js": "/covidapp/static/js/main.b4e65748.chunk.js",
+    "main.js.map": "/covidapp/static/js/main.b4e65748.chunk.js.map",
     "runtime-main.js": "/covidapp/static/js/runtime-main.76d2cd2f.js",
     "runtime-main.js.map": "/covidapp/static/js/runtime-main.76d2cd2f.js.map",
     "static/js/2.5d4a5606.chunk.js": "/covidapp/static/js/2.5d4a5606.chunk.js",
     "static/js/2.5d4a5606.chunk.js.map": "/covidapp/static/js/2.5d4a5606.chunk.js.map",
     "index.html": "/covidapp/index.html",
-    "precache-manifest.bdfe1bd2cf3c773a9d40b61de11ef974.js": "/covidapp/precache-manifest.bdfe1bd2cf3c773a9d40b61de11ef974.js",
+    "precache-manifest.18ce6e624c0f951848c2feab21b63a7e.js": "/covidapp/precache-manifest.18ce6e624c0f951848c2feab21b63a7e.js",
     "service-worker.js": "/covidapp/service-worker.js",
     "static/css/main.ff16af3e.chunk.css.map": "/covidapp/static/css/main.ff16af3e.chunk.css.map",
     "static/js/2.5d4a5606.chunk.js.LICENSE.txt": "/covidapp/static/js/2.5d4a5606.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.76d2cd2f.js",
     "static/js/2.5d4a5606.chunk.js",
     "static/css/main.ff16af3e.chunk.css",
-    "static/js/main.7eb7856a.chunk.js"
+    "static/js/main.b4e65748.chunk.js"
   ]
 }
